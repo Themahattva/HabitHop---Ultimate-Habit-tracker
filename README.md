@@ -1,4 +1,4 @@
-# 🐸 HabitHop — Ultimate Habit Tracker
+# HabitHop — Ultimate Habit Tracker
 
 A cross-platform habit tracking app built with Flutter. Dark, glassy, iOS-inspired UI. Vibe coded. Does exactly what it needs to.
 
